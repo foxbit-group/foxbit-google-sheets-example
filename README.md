@@ -8,7 +8,7 @@ Este projeto tem como objetivo fornecer um passo a passo detalhado para integrar
 Caso você ainda não tenha uma planilha do Google Sheets, crie um novo documento na sua conta Google.
 
 > :lock:
-> Este documento conterá credenciais de acesso à suas informações na Foxbit, então tome as providências necessárias para que pessoas não autorizadas tenham acesso à este arquivo.
+> Este documento conterá credenciais de acesso à suas informações na Foxbit, então tome as providências necessárias para que pessoas não autorizadas não tenham acesso à este arquivo.
 
 
 ## Aba para armazenamento das credenciais de acesso à API da Foxbit
